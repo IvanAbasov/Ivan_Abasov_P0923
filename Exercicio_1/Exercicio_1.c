@@ -1,8 +1,12 @@
 #include <stdio.h>
 
 int main(){
-
-    printf("teste");
+    int Num=0;
+    for(int i=0; i<10;i++){
+        Num+=2;
+        printf("Num = %d,i= %d",Num,i);
+        printf("aquia1FOR");
+    }
     return 0;
 
 }
