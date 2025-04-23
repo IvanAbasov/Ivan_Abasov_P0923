@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    float nota1, nota2, nota3, media;
+    float nota1= 0;
+    float nota2 = 0;
+    float nota3 = 0;
+    float media;
 
 
     printf("Digite a nota da primeira prova (0 a 10): ");

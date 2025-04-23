@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int num1, num2;
+    int num1 = 0;
+    int num2 = 0;
 
 
     printf("Digite o primeiro numero: ");

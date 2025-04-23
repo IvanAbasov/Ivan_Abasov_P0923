@@ -2,8 +2,8 @@
 
 int main(){
 
-    float saldo;
-    float cheque;
+    float saldo = 0;
+    float cheque = 0;
 
     printf("Escreve o saldo inicial: ");
     scanf("%f", &saldo);
@@ -13,7 +13,7 @@ int main(){
 
     if (cheque> saldo){
 
-        printf("Cheque não pode ser descontado, saldo insuficiente");
+        printf("Cheque nï¿½o pode ser descontado, saldo insuficiente");
 
     }else{
 
