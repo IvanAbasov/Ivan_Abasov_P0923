@@ -10,7 +10,7 @@ int main() {
         printf("Escreva a nota do aluno %d (0 a 20): ", i + 1);
         scanf("%d", &notas[i]);
 
-
+ 
         while (notas[i] < 0 || notas[i] > 20) {
             printf("Nota inválida! Por favor, insira uma nota entre 0 e 20: ");
             scanf("%d", &notas[i]);

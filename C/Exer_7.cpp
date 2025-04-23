@@ -6,7 +6,7 @@ int main() {
     float nota3 = 0;
     float media;
 
-
+ 
     printf("Digite a nota da primeira prova (0 a 10): ");
     scanf("%f", &nota1);
 

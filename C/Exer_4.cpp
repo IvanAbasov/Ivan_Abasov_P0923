@@ -4,7 +4,7 @@ int main(){
 
     float saldo = 0;
     float cheque = 0;
-
+ 
     printf("Escreve o saldo inicial: ");
     scanf("%f", &saldo);
 

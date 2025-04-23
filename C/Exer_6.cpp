@@ -19,7 +19,7 @@ int main() {
     } else {
         desconto = preco * 0.2; 
     }
-
+ 
     valorFinal = preco - desconto; 
 
     

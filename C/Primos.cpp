@@ -24,7 +24,7 @@ int main() {
             printf("%d ", numeros[i]);
         }
     }
-
+ 
     printf("\n");
     return 0;
 }

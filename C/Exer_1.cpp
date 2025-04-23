@@ -2,7 +2,8 @@
 
 int main(){
     int h;
-    int horas = h / 3600;
+    int horas = h / 3600; 
+
     int minutos = h / 60;
 
     printf("Escreve o tempo em segundos: ");
